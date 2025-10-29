@@ -1,0 +1,11 @@
+I'd be happy to help you with your web development students.
+
+To find out where Exercise 1 is taught, let's check the video chunks:
+
+According to the video chunk information:
+- Video 14 has a start time of 450.32 seconds.
+- The text at that timestamp says: "I gave you an exercise."
+
+Therefore, Exercise 1 is taught in Video 14, starting from 0.32 seconds into the video.
+
+You can find it by playing or opening Video 14 on your system.
